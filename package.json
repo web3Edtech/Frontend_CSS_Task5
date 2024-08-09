@@ -1,7 +1,7 @@
 {
-  "name": "profile-page-pseudo-classes",
+  "name": "css-selectors-task",
   "version": "1.0.0",
-  "description": "A task to apply CSS pseudo-classes to a profile page, enhancing interactivity and styling.",
+  "description": "A task to apply various CSS selectors including ID, class, attribute, and element selectors to a profile page.",
   "main": "index.html",
   "scripts": {
     "start": "open index.html"
