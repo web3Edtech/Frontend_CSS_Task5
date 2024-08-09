@@ -1,2 +1,2 @@
-# Frontend_CSS_Task3
-  Implementing CSS Pseudo-Classes on Your Profile Page
+# Frontend_CSS_Task5
+ Mastering CSS Selectors on Your Profile Page
